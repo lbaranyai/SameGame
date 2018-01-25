@@ -1,0 +1,12 @@
+SameGame - logical strategy game
+=====================================================
+Developer: lbaranyai@github
+
+
+LICENSE
+
+This software was created for fun, not for profit.
+Anyone can use free according to the 
+
+Creative Commons BY-NC 3.0
+http://creativecommons.org/licenses/by-nc/3.0/

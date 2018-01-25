@@ -1,0 +1,61 @@
+SameGame - logical strategy game
+=====================================================
+Developer: lbaranyai@github
+
+
+In this logical game, player has to remove tiles by
+click on area of the same color. The larger area is
+removed, the more points are collected. Tiles fall 
+down to empty places and columns move right if 
+possible. 
+The game requires mouse, it does not work with
+keyboard.
+
+
+LEVELS OF DIFFICULTY
+
+1. Easy level
+
+Size: 15 x 10
+It is designed for children or rapid party.
+
+2. Advanced
+
+Size: 30 x 20
+It is designed for players familiar with the game.
+
+3. Extra
+
+Size: what fits the screen (max. 100 x 100)
+It is recommended to enthusiasts or people with
+lots of time.
+
+
+STYLES AND AIMS
+
+A. Standard
+
+The main goal is to remove all. The bigger area you
+remove, the more points you collect. The winner can
+take all tiles away. When finished, scores can be
+compared as
+- collected points
+- number of moves
+- points per move
+
+B. Rapid party
+
+The main goal is to remove as much as possible 
+within the shortest time. When finished, scores can
+be compared as
+- number of tiles left when time is over
+- points per second
+- moves per second
+
+There is no time limit in the game, you have to 
+specify for yourself and participants.
+
+C. Any other as you like it
+
+Feel free to create your tournament and train
+your brain.
